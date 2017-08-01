@@ -20,7 +20,7 @@
 * [GitHub](https://github.com/Jermic/ETingFM/releases)
 
 ## 预览
-![](https://raw.githubusercontent.com/Jermic/ETingFM/master/p1.png)
+![](https://raw.githubusercontent.com/Jermic/ETingFM/master/p2.png)
 
 ## Icon
 [Sorcery](http://coolapk.com/apk/com.sorcerer.sorcery.iconpack)
